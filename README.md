@@ -31,9 +31,6 @@ javaweb-vuln-agent/
 │               └── MANIFEST.MF
 ├── pom.xml
 └── README.md
-```
-
----
 
 ## **4. 核心功能**
 ### **4.1 Java Agent 入口**
